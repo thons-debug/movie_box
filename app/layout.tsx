@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     description: 'Explore trending movies, search for films, and build your personal watchlist',
     images: [
       {
-        url: 'https://bolt.new/static/og_default.png',
+        url: 'https://.new/static/og_default.png',
       },
     ],
   },
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     description: 'Explore trending movies, search for films, and build your personal watchlist',
     images: [
       {
-        url: 'https://bolt.new/static/og_default.png',
+        url: 'https://.new/static/og_default.png',
       },
     ],
   },
